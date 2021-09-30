@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NewAppReactJS/static/css/main.87bf9a2e.chunk.css",
+    "main.js": "/NewAppReactJS/static/js/main.ac28a8e0.chunk.js",
+    "main.js.map": "/NewAppReactJS/static/js/main.ac28a8e0.chunk.js.map",
+    "runtime-main.js": "/NewAppReactJS/static/js/runtime-main.4e703029.js",
+    "runtime-main.js.map": "/NewAppReactJS/static/js/runtime-main.4e703029.js.map",
+    "static/js/2.e9d2d48a.chunk.js": "/NewAppReactJS/static/js/2.e9d2d48a.chunk.js",
+    "static/js/2.e9d2d48a.chunk.js.map": "/NewAppReactJS/static/js/2.e9d2d48a.chunk.js.map",
+    "static/js/3.3636245a.chunk.js": "/NewAppReactJS/static/js/3.3636245a.chunk.js",
+    "static/js/3.3636245a.chunk.js.map": "/NewAppReactJS/static/js/3.3636245a.chunk.js.map",
+    "index.html": "/NewAppReactJS/index.html",
+    "static/css/main.87bf9a2e.chunk.css.map": "/NewAppReactJS/static/css/main.87bf9a2e.chunk.css.map",
+    "static/js/2.e9d2d48a.chunk.js.LICENSE.txt": "/NewAppReactJS/static/js/2.e9d2d48a.chunk.js.LICENSE.txt",
+    "static/media/logo.eda1c187.jpg": "/NewAppReactJS/static/media/logo.eda1c187.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e703029.js",
+    "static/js/2.e9d2d48a.chunk.js",
+    "static/css/main.87bf9a2e.chunk.css",
+    "static/js/main.ac28a8e0.chunk.js"
+  ]
+}
